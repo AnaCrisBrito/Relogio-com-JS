@@ -24,3 +24,9 @@ Relogio-com-JS/
 ├── style.css
 ├── script.js
 └── README.md
+```
+## Demonstração
+
+Acesse o projeto publicado:
+
+[**Visualizar o Relógio Digital**](https://anacrisbrito.github.io/Relogio-com-JS/)
