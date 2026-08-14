@@ -2,6 +2,10 @@
 
 Um relógio digital desenvolvido com HTML, CSS e JavaScript, capaz de exibir e atualizar a hora atual em tempo real diretamente no navegador.
 
+<p align="center">
+  <img src="assets/relogio-preview.png" alt="Preview do Relógio" width="600px">
+</p>
+
 ## Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
